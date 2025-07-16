@@ -123,3 +123,22 @@ In the end, the interface should look like this:
 
 Now you just click on **RUN** and wait a minute until the metrics are obtained. At the end a new window will pop up, and you should copy the contents to a text file, so you don't lose them!
 
+🙋** Help**
+If you encounter any issues while setting up or running this project, please first refer to the documentation and scripts provided in this repository. If the problem persists, feel free to open an issue with a clear description, error logs, and relevant context. Collaboration and contributions are welcome!
+
+**🙏 Acknowledgements
+**This project is inspired by and builds upon the excellent work done in the YOLO-on-PYNQ-Z2 repository by andre1araujo. His implementation and documentation were instrumental in guiding the early stages of this project.
+
+_Special thanks to:
+_
+- andre1araujo, for his insightful project and for mentioning this work in his repository.
+- Wu-Tianze, for his foundational work on DNN deployment on PYNQ: dnndk-pynqz2.
+- Jin-Chen and his resources from AIOTLab: aiotlab.org, which provided valuable insights on FPGA-based AI acceleration.
+- The PYNQ community, especially those active on the PYNQ Forum, for fostering a collaborative environment and openly sharing solutions and ideas.
+
+This work was also made possible with guidance and support from my academic mentors and peers. Thank you all for the encouragement and technical input.
+
+**📬 Feedback
+**
+Your feedback is greatly appreciated! If you have suggestions, spot a bug, or want to contribute, please don’t hesitate to create a pull request or open an issue. Let’s continue improving and expanding the capabilities of FPGA-based target identification together.
+
