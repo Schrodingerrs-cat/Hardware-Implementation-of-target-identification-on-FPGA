@@ -137,7 +137,7 @@ This project is inspired by and builds upon the excellent work done in the [YOLO
 
 **Special thanks to:**
 
-- [**andre1araujo**](https://github.com/andre1araujo) — for his insightful project, documentation, and for kindly mentioning this repository.
+- [**andre1araujo**](https://github.com/andre1araujo) — for his insightful project and documentation.
 - [**Wu-Tianze**](https://github.com/wutianze/dnndk-pynqz2) — for his pioneering work on DNN deployment with DNNDK on the PYNQ-Z2.
 - [**Jin-Chen**](http://www.aiotlab.org/teaching/fpga.html) — for the educational resources provided through AIOTLab, which were very helpful in the initial stages.
 - The [**PYNQ Community**](https://discuss.pynq.io/) — for their openness, helpful discussions, and shared knowledge.
