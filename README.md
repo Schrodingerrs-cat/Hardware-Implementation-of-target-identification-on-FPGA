@@ -1,3 +1,26 @@
+# 📜 Licensing & Rights Statement
+
+The licensing and rights of this project, including but not limited to its documentation, results, and outcomes, are **solely reserved to the original authors** as explicitly listed in the document titled **“minor project draft.”**
+
+## 1. Authorship Protection
+- No individual or group has the right to remove, replace, reorder, or demote the authors as listed in the “minor project draft.”  
+- Any attempt to present this work, its documentation, or its results under a different authorship is a violation of this licensing statement.  
+
+## 2. Use of Results
+- The results and outcomes of this project may be **referenced or compared** for academic or research purposes.  
+- However, **claiming the results or outcomes as your own research is strictly prohibited.**  
+
+## 3. Publication and Consent
+- **The sole right to decide on the publication, republication, or redistribution of this project and its documents belongs exclusively to the primary author (myself).**  
+- Even co-authors listed in the “minor project draft” are **not permitted to publish, republish, or redistribute** this work without my explicit written consent.  
+- Any unauthorized publication, whether by changing authorship order, omitting contributors, or bypassing the primary author’s authority, is a direct violation of these rights.  
+
+## 4. Acknowledgement Requirement
+- If this work is used as a comparison point, reference, or supporting material, proper acknowledgment and citation of the original authors is mandatory.  
+
+In summary: **The rights to this project, its results, and documentation belong only to the primary author.**  
+No co-author or external party may publish or distribute this work without my explicit permission.
+
 # Metrics
 The objective here is to run the YOLO object detector on a large set of images and obtain a folder with the detections for each image on a specific format. The detections consist on information about the bounding box, class and probability for each object on each image. The format will be the one on the next image:
 
